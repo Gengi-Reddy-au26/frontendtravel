@@ -20,7 +20,7 @@ const Newsletter = () => {
 
               <p>
               “To my mind, the greatest reward and luxury of travel is to be able to experience everyday things as if for the first time, 
-              to be in a position in which almost nothing is so familiar it is taken for granted.”.
+              to be in a position in which almost nothing is so familiar it is taken for granted.
               </p>
             </div>
           </Col>
